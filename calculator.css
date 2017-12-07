@@ -46,3 +46,9 @@
 	cursor: pointer;
 	border-top: 2px solid transparent;
 }
+.button.function {
+	color: white;
+	background-color: #c64f81;
+	border-button: black 2px solid;
+	border-top: 2px #6f6f6f solid;
+}
