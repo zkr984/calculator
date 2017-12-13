@@ -3,7 +3,7 @@
 
 /* Calculator Box */
 .box {
-	background-color: #e5e7ea;
+	background-image: url('christmas.jpg');
 	height: 300px;
 	width: 250px;
 	border-radius: 10px;
